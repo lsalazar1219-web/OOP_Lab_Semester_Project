@@ -1,0 +1,229 @@
+Cancer Drug News
+AI In Oncology Drug Development: Adoption To Expand While
+Clinical Validation Remains A Constraint
+Key View
+• Pharmaceutical companies will expand their use of licensed biological AI models as
+oncology research tools.
+• FDA–EMA coordination will clarify how pharmaceutical companies prepare AI-
+supported evidence for drug submissions.
+• AI-supported oncology discovery will face a prolonged period of clinical validation
+despite establishing a sizeable pipeline.
+Pharmaceutical companies will expand their use of licensed biological artificial
+intelligence (AI) models as oncology research tools. Existing arrangements range
+from paying AI companies to identify drug targets to licensing broader research
+platforms and jointly developing biological models. Under AstraZeneca's April 2025
+agreement with Tempus and Pathos, Pathos is developing an oncology model using
+Tempus's patient data for subsequent use by all three partners. By contrast, GSK's
+January 2026 agreement with Noetik allows its researchers to use existing models to
+investigate tumour biology in non-small cell lung cancer and colorectal cancer without
+building the models themselves. The five-year, non-exclusive agreement provides
+access in return for annual licensing fees. This offers a scalable business model for
+biological AI, in which developers can license the same trained model to multiple
+pharmaceutical companies rather than relying solely on bespoke partnerships. We
+expect further agreements to favour companies with differentiated cancer datasets, as
+these underpin models' ability to simulate tumour biology and support drug discovery.
+Noetik's detailed data on individual cells and their surrounding tumour environments
+illustrate this potential advantage, allowing the company to use its proprietary datasets
+across model licensing, commissioned research and its own drug-development
+programmes.
+FDA–EMA coordination will clarify how pharmaceutical companies prepare AI-
+supported evidence for drug submissions. Pharmaceutical companies are
+increasingly using AI to analyse complex clinical, real-world and other drug-
+development data, increasing the need for clarity over the reliability of AI-supported
+results. On January 14 2026, the FDA and European Medicines Agency published 10
+shared principles intended to guide future regulation across the drug's life cycle. The
+principles call for companies to define how AI will generate evidence on a drug's quality,
+safety or effectiveness, document the data and analytical decisions behind its outputs,
+October 21 2026
+Issue: 1198
+ISSN: 1369-7129
+Contents
+Haematological Cancer ..................3
+Genito-Urinary Cancer....................3
+Gastrointestinal Cancer .................4
+Head and Neck Cancer....................4
+General Developments...................4
+Corporate Activity............................5
+Conferences.......................................6
+Highlights
+Hansoh Pharmaceutical And Roche Sign
+Strategic Agreement On Antibody-Drug
+Conjugate Development
+Page 5
+Amy Walker
+Manager, Pharmaceutical & Healthcare
+Monica Rose
+Head Office
+30 North Colonnade, Canary Wharf, London
+E14 5GN, UK
+Company Locations
+London | New York | Singapore | Hong Kong |
+Dubai | Pretoria
+Subscriptions Contact:
+Tel: +44 (0)20 7248 0468
+Fax: +44 (0)20 7248 0467
+email:
+emeaclientservices@fitchsolutions.com
+© 2026 Fitch Solutions Group Limited. All rights reserved.
+All information, analysis, forecasts and data provided by Fitch Solutions Group Limited are for the exclusive use of subscribing persons or
+organisations (including those using the service on a trial basis). All such content is copyrighted in the name of Fitch Solutions Group Limited and
+as such no part of this content may be reproduced, repackaged, copied or redistributed without the express consent of Fitch Solutions Group
+Limited.
+All content, including forecasts, analysis and opinion, is based on information and sources believed to be accurate and reliable at the time of
+publishing. Fitch Solutions Group Limited makes no representation or warranty of any kind as to the accuracy or completeness of any information
+provided, and accepts no liability whatsoever for any loss or damage resulting from opinion, errors, inaccuracies or omissions affecting any part of
+the content.
+This report from BMI – A Fitch Solutions Company is a product of Fitch Solutions Group Limited; UK Company registration number 08789939
+('FSG'). FSG is an affiliate of Fitch Ratings Inc. ('Fitch Ratings'). FSG is solely responsible for the content of this report, without any input from Fitch
+Ratings. Copyright (c) 2026 Fitch Solutions Group Limited.
+and validate and monitor its performance according to the importance and risk of its regulatory use. Oncology is also
+receiving specific regulatory attention. In June 2026, the FDA Oncology Center of Excellence said its Oncology AI Programme
+was refocusing towards regulatory review and examining AI's implications for oncology drug development. Cancer-drug
+developers will therefore need to demonstrate that models are reliable for their specific regulatory purpose, with applications
+contributing directly to safety or effectiveness assessments requiring stronger validation, documentation and oversight.
+Companies using external AI providers will remain responsible for substantiating the resulting evidence, favouring suppliers
+that clearly document their data, performance and limitations. Meeting these expectations may add time and cost during
+development but should reduce the risk of regulators questioning consequential AI-supported analyses during review.
+Drug Regulators Are Reviewing A Growing Volume Of AI-Supported Submissions
+AI-supported oncology discovery will face a prolonged period of clinical validation despite establishing a sizeable
+pipeline. AI-supported drug discovery has moved beyond laboratory research and produced a measurable clinical pipeline. An
+industry-wide analysis published in Cancer Treatment Reviews in October 2026 identified 129 AI-enabled candidates that had
+entered human trials across 69 companies by March 1 2026, with oncology accounting for 74 candidates, or 57.3% of the
+total. These findings establish substantial clinical entry, but the pipeline's current concentration in early trials means that
+there is still limited evidence on whether these candidates will provide treatment benefits. An August 2026 Cancer Medicine
+review highlights further obstacles to clinical translation. AI predictions based mainly on laboratory data may prove less
+reliable when tested against the greater complexity of cancers in patients, while AI-designed molecules may not always be
+practical to manufacture. Near-to-medium-term progress will therefore depend on companies identifying unsuitable
+predictions earlier, before committing substantial capital to clinical development. A recent commercial example is the April
+2026 partnership between Crown Bioscience and Turbine, which integrates AI prediction with patient-derived tumour testing
+to address the gap between computational promise and clinical translation. More extensive testing should improve candidate
+selection but will retain significant time and cost for discovery.
+Cancer Drug News | October 21 2026
+FitchSolutions.com/bmi This commentary is published by BMI – A Fitch Solutions Company, and is not a comment on Fitch Ratings' Credit Ratings. Any comments or data included in
+the report are solely derived from BMI and independent sources. Fitch Ratings analysts do not share data or information with BMI. Page 2
+Haematological Cancer
+CHMP Recommends Approval Of Talvey And Daratumumab Combination For Earlier-Line
+Multiple Myeloma In Europe
+The Committee for Medicinal Products for Human Use (CHMP) of the European Medicines Agency has recommended
+approval of Johnson & Johnson’s Talvey (talquetamab) in combination with daratumumab, with or without pomalidomide, for
+adults with relapsed or refractory multiple myeloma who have received at least one prior therapy. This regimen, which targets
+GPRC5D and CD38, would be the first bispecific antibody combination available as early as second-line treatment. Data from
+the Phase 3 MonumenTAL-3 trial showed progression-free survival rates of up to 81% and overall survival rates of up to 89% at
+24 months. The safety profile was consistent with previously reported results for the individual therapies. The proposed
+combination may expand treatment options for patients with early relapse and support Johnson & Johnson’s position in the
+European multiple myeloma market.
+Genito-Urinary Cancer
+FDA Accepts NDA For UroGen's UGN-103 Bladder Cancer Therapy
+The US Food and Drug Administration (FDA) has accepted the New Drug Application (NDA) for UGN-103, UroGen Pharma's
+investigational intravesical therapy designed for adults with recurrent low-grade intermediate-risk non-muscle invasive
+bladder cancer (LG-IR-NMIBC). The submission is supported by data from the Phase 3 UTOPIA trial, which demonstrated a
+77.8% complete response rate at three months and sustained response at six months. UGN-103 utilises UroGen's proprietary
+RTGel technology and incorporates manufacturing modifications to improve clinical administration. If approved, UGN-103
+would complement UroGen's existing ZUSDURI therapy, with intellectual property protection expected until 2044. The FDA
+has set a Prescription Drug User Fee Act target action date of June 2027.
+Cancer Drug News | October 21 2026
+FitchSolutions.com/bmi This commentary is published by BMI – A Fitch Solutions Company, and is not a comment on Fitch Ratings' Credit Ratings. Any comments or data included in
+the report are solely derived from BMI and independent sources. Fitch Ratings analysts do not share data or information with BMI. Page 3
+Gastrointestinal Cancer
+CHMP Issues Positive Opinion For RASONQUE In Metastatic Pancreatic Cancer
+The European Medicines Agency’s Committee for Medicinal Products for Human Use (CHMP) has issued a positive opinion
+recommending marketing authorisation for ‘RASONQUE’ (daraxonrasib), an oral RAS inhibitor developed by Revolution
+Medicines, for adults with metastatic pancreatic adenocarcinoma who have previously received systemic therapy. The
+recommendation is based on results from the global Phase 3 RASolute 302 study, which demonstrated a reduction in the risk
+of death and improvements in both overall survival and progression-free survival compared with chemotherapy, irrespective
+of RAS mutation status. Subject to European Commission approval, ‘RASONQUE’ would be the first broadly RAS-targeted
+therapy for this indication in the EU, addressing a population with limited treatment options. The CHMP’s positive opinion
+follows recent US Food and Drug Administration approval and highlights the role of accelerated regulatory pathways in
+enabling access to innovative oncology treatments.
+Head and Neck Cancer
+BioNTech Reports No Statistically Significant Progression-Free Survival Benefit For BNT113 In
+Phase II/III HPV16-Positive Head And Neck Cancer Trial
+BioNTech has announced results from the Phase II/III AHEAD-MERIT trial evaluating BNT113, its investigational messenger
+RNA (mRNA) cancer immunotherapy, in combination with pembrolizumab for patients with unresectable, recurrent or
+metastatic human papillomavirus type 16 (HPV16)-positive head and neck squamous cell carcinoma. Interim analysis showed
+no statistically significant improvement in progression-free survival for the combination therapy compared with
+pembrolizumab alone. The trial will continue to assess overall survival, which remains a primary endpoint. BNT113 targets
+HPV16-derived antigens and is part of BioNTech’s oncology pipeline, which is focused on unmet clinical needs in HPV-
+associated head and neck cancer. The therapy has received US FDA Fast Track Designation and continues under evaluation as
+part of the company’s mRNA-based immunotherapy strategy.
+General Developments
+Marengo Therapeutics Receives Second US FDA Fast Track Designation For Invikafusp Alfa In
+TMB-H Solid Tumours
+Marengo Therapeutics has received a second US FDA Fast Track Designation for its investigational immuno-oncology agent,
+invikafusp alfa. The designation broadens eligibility from tumor mutational burden-high (TMB-H) colorectal cancer to a tissue-
+agnostic indication for unresectable, locally advanced or metastatic TMB-H solid tumours that have progressed following
+previous therapies, including immune checkpoint inhibitors. The expanded designation is supported by monotherapy
+responses across multiple tumour types in the ongoing STARt-001 trial. Invikafusp alfa is the first T-cell agonist to obtain Fast
+Track status in a biomarker-defined, tissue-agnostic context. This regulatory development is based on Phase II clinical data,
+with further updates expected at the European Society for Medical Oncology Congress.
+Cancer Drug News | October 21 2026
+FitchSolutions.com/bmi This commentary is published by BMI – A Fitch Solutions Company, and is not a comment on Fitch Ratings' Credit Ratings. Any comments or data included in
+the report are solely derived from BMI and independent sources. Fitch Ratings analysts do not share data or information with BMI. Page 4
+CHMP Issues Positive Opinion On Extended Dosing Schedule For Libtayo In EU Cancer
+Indications
+The European Medicines Agency Committee for Medicinal Products for Human Use (CHMP) has recommended approval of an
+updated dosing schedule for Libtayo (cemiplimab) covering all current cancer indications in the EU. The proposed regimen
+would allow patients to transition to a 700mg intravenous dose every six weeks after an initial 12-week period of 350mg every
+three weeks. CHMP based its recommendation on pharmacokinetic, pharmacodynamic and clinical data. The updated dosing
+schedule may reduce treatment frequency and infusion times. The European Commission is expected to issue a final decision
+in the coming months, which would extend the six-week dosing option to all approved cancer indications for Libtayo in the
+EU.
+Corporate Activity
+Hansoh Pharmaceutical And Roche Sign Strategic Agreement On Antibody-Drug Conjugate
+Development
+Hansoh Pharmaceutical Group has entered into a strategic collaboration and licence agreement with Roche to develop a
+portfolio of antibody-drug conjugate (ADC) therapies targeting multiple cancer types. Under the agreement, Hansoh will
+oversee early-stage development for several ADC programmes, while Roche will manage global development and
+commercialisation outside Mainland China; Hong Kong, China; Macao, China; and Taiwan, China, where Hansoh retains
+commercial rights. The transaction includes an upfront payment of USD400mn, a first anniversary payment of USD110mn,
+potential milestone payments exceeding USD15bn and royalties on future sales. Hansoh may also co-develop up to two
+programmes outside Greater China, with the option to participate in US commercialisation. The agreement is intended to
+facilitate the joint advancement of oncology therapeutics across multiple markets.
+Vir Biotechnology And Gilead Sciences Announce Collaboration On T-Cell Engager Therapies For
+Solid Tumours
+Vir Biotechnology and Gilead Sciences have entered into a multi-programme collaboration and exclusive licence agreement
+to develop three PRO-XTEN dual-masked T-cell engagers targeting antigens associated with solid tumours. The partnership
+combines Vir’s artificial intelligence-enabled protein engineering and masking technology with Gilead’s expertise in oncology
+development and commercialisation. The objective is to create immunotherapies with improved selectivity and safety for
+treating solid tumours. Under the terms of the agreement, Vir will receive up to USD135mn in upfront and near-term
+milestone payments, with the potential for an additional USD1.7bn in development, regulatory and commercial milestones as
+well as royalties on future sales. This agreement reflects increasing industry interest in immuno-oncology and demonstrates
+the application of Vir’s discovery platform in developing new therapeutic candidates.
+Johnson & Johnson Reports Q3 2026 Sales Increase And Raises Year-End Guidance
+Johnson & Johnson reported a 5.9% y-o-y increase in Q3 2026 sales to USD25.4bn, with growth across the Innovative
+Medicine and MedTech segments. The company revised up its full-year outlook, now forecasting reported sales of
+USD101.2bn and adjusted earnings per share of USD11.1. Key developments during the quarter included completing the
+Firefly Bio acquisition, collaborating with Sail Biomedicines, and receiving regulatory approvals for IMAAVY in warm
+autoimmune haemolytic anaemia and OTTAVA, a table-integrated soft-tissue robotic system. Operational sales in Innovative
+Medicine rose by 7.9%, supported by oncology and immunology products, and MedTech growth was driven by cardiovascular
+and orthopaedics demand. Johnson & Johnson continues to invest in portfolio expansion, targeting long-term growth.
+Cancer Drug News | October 21 2026
+FitchSolutions.com/bmi This commentary is published by BMI – A Fitch Solutions Company, and is not a comment on Fitch Ratings' Credit Ratings. Any comments or data included in
+the report are solely derived from BMI and independent sources. Fitch Ratings analysts do not share data or information with BMI. Page 5
+Conferences
+AstraZeneca To Present Phase III Oncology Trial Data Across Multiple Cancer Types At ESMO
+2026
+AstraZeneca will present data from four Phase III clinical trials at the ESMO 2026 Congress, covering gastric, lung, bladder and
+breast cancers. The presentations include the first positive Phase III results for an anti-CLDN18.2 antibody-drug conjugate
+(Sone-Ve) in advanced gastric cancer, as well as findings from combination regimens involving Imfinzi, Tagrisso and Orpathys
+that demonstrate survival outcomes in bladder and lung cancers. More than 100 abstracts will highlight advances in
+treatment modalities, precision medicine and combination therapies. These presentations aim to provide evidence for
+potential treatment strategies and support AstraZeneca’s focus on improving outcomes across multiple tumour types.
+Merck To Present Phase III Oncology Trial Results At ESMO Congress 2026, Expanding Cancer
+Treatment Portfolio
+Merck will present initial results from three Phase III oncology trials at the European Society for Medical Oncology (ESMO)
+Congress 2026, including data on intismeran autogene with Keytruda in adjuvant melanoma, sacituzumab tirumotecan for
+advanced endometrial cancer, and Keytruda monotherapy in mismatch repair deficient endometrial cancer, all featured in
+Presidential Symposia. Additional results from studies in non-small cell lung cancer and advanced renal cell carcinoma will
+also be presented. These findings reflect Merck’s efforts to broaden its oncology portfolio with therapies that may improve
+survival outcomes across several tumour types.
+Eisai To Present Oncology Data At ESMO Congress 2026, Highlighting LENVIMA-Based Treatment
+Outcomes In Advanced Cancer
+Eisai will present new clinical data at the European Society for Medical Oncology (ESMO) Congress 2026, with a focus on
+outcomes from its oncology pipeline, particularly combination regimens involving LENVIMA (lenvatinib) for advanced renal
+cell carcinoma and endometrial cancer. The company will report final results from Phase III LITESPARK-011 and
+LITESPARK-012 studies, which investigated LENVIMA in combination with WELIREG and KEYTRUDA. These results support
+recent FDA approvals and guideline recommendations for first-line therapies in renal cell carcinoma. Exploratory biomarker
+findings from the Phase III LEAP-001 study contribute to the understanding of treatment strategies for advanced endometrial
+cancer. Eisai will also provide patient survey data on quality of life and care preferences. The presentations offer updated
+evidence for clinical practice and highlight ongoing collaboration with Merck in developing LENVIMA-based regimens.
