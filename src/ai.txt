@@ -1,0 +1,55 @@
+86% of organisations report AI project delays or cancellations due to data concerns, while infrastructure readiness, power and legacy IT remain key challenges.
+
+Organisations are investing in artificial intelligence (AI), but fragmented data, legacy IT systems and constraints on computing infrastructure are slowing the transition from pilot projects to large-scale deployment, according to new research by Iron Mountain.
+
+The report, The Information Supercycle: Aligning Data, Infrastructure and Capital for AI Scale, finds that 86% of organisations experienced delays or cancellations in AI projects because of data-related concerns over the past 12 months. Although 95% consider using data to improve business outcomes a priority, many lack the information governance and infrastructure needed to deploy AI reliably at scale.
+
+The findings highlight a gap between AI adoption plans and operational readiness. As businesses move from generative AI tools towards agentic AI systems that can execute tasks across workflows, the quality, accessibility and traceability of enterprise data are becoming as important as the models themselves.
+
+Data Preparation Continues to Consume AI Project Time
+
+The report identifies data preparation as a significant source of delay. Four in 10 organisations spend between 41% and 60% of their AI project timelines on manual data preparation, while approximately two in 10 spend more than 60% of project time on the task. Only 39% fall into the report's ‘digitised and structured’ category, where information is centrally managed, indexed and readily usable for analytics and AI.
+
+Fragmented information estates are adding to the problem. Some 56% of respondents cite data distributed across disconnected systems or departmental silos, while 53% identify legacy formats or physical archives as barriers.
+
+These challenges can be particularly difficult for enterprises with years of accumulated records across older applications, document repositories and physical storage. Before AI systems can use that information, organisations may need to digitise documents, extract relevant content, reconcile inconsistent records and establish access controls.
+
+The result is additional work before AI projects can deliver their intended operational benefits. Poorly structured or outdated information can also introduce inaccuracies and compliance risks into AI-generated outputs and automated decisions.
+
+70% of Organisations Cannot Track Data Used in AI Models
+
+Data governance is another weakness identified by the research. Around 70% of organisations say they cannot effectively track the lifecycle of information used in their AI models, including where the data originated and how it moved through the organisation.
+
+The report also found that fewer than half of respondents were completely confident about any of the assessed dimensions of their AI data. Only 41% expressed complete confidence in its completeness, 37% in its accuracy and 36% in its lack of bias. Confidence in legal compliance stood at 44%, while 41% were completely confident about traceability and 40% about accessibility.
+
+These limitations become more significant as organisations introduce agentic AI systems that can retrieve information, make decisions and execute actions across business processes. Without clear data lineage, access permissions and retention policies, organisations may find it difficult to establish why an AI system produced a particular result or took a particular action.
+
+Varun Gupta, senior vice-president of global product and solutions marketing at Iron Mountain, said, “AI readiness is about much more than deploying the latest technology. Enterprises need to know that the information powering their AI is accessible, current and governed, with clear ownership and permissions. As AI agents move from generating answers to taking actions across business workflows, these foundations become essential to scaling AI with confidence.”
+
+Infrastructure Readiness Emerges as a Key AI Constraint
+
+Beyond data quality and governance, the report identifies physical infrastructure as a major consideration for scaling AI. Infrastructure readiness was the most frequently ranked number-one challenge, cited by 23% of respondents, while 64% placed it among their top three concerns.
+
+Data growth ranked first for 20% of respondents and featured among the top three concerns for 60%. Power and sustainability also ranked first for 20%, with 57% placing them in their top three. Cloud dependency was among the top three concerns for 62%, while regulatory challenges featured in the top three for 54%.
+
+The findings reflect a shift in enterprise AI requirements as deployments move beyond model training and experimentation towards inference, the computing process through which trained models generate responses or execute tasks. Unlike training, inference can generate sustained demand as AI systems are used continuously across applications and workflows.
+
+The report projects that AI inference will overtake training as a driver of AI computing demand in 2026 and account for 80% of total IT load capacity by 2030. These are projections cited by Iron Mountain, rather than independently verified outcomes.
+
+AI infrastructure also places different demands on data centres from conventional enterprise workloads. GPU-intensive computing requires high-density power distribution and advanced cooling, alongside sufficient compute capacity and connectivity. Power availability, equipment supply and data centre capacity can therefore affect when and where enterprises can deploy AI, even when funding and suitable data are available.
+
+Iron Mountain's report argues that enterprises need to consider data architecture and physical infrastructure together, rather than treating information management as separate from compute capacity, power and hardware planning.
+
+Legacy IT Costs Compete With AI Investment
+
+The research also points to difficulties in redirecting existing technology spending towards modernisation. Some 65% of enterprise leaders said they had limited confidence in tracking expenditure on maintenance compared with modernisation and innovation. The report further found that 56% of organisations spent the majority of their data and IT budgets on maintenance, compared with 15% that allocated the majority to innovation; 28% reported an even split.
+
+This creates a funding challenge for organisations attempting to modernise legacy systems while investing in AI infrastructure. Older applications, underused hardware and fragmented data estates can continue to consume resources that might otherwise support new computing capacity, data platforms and governance systems.
+
+The report also highlights IT asset management as a potential source of savings. Identifying unused equipment, securely retiring obsolete hardware and recovering value from eligible assets could help organisations redirect spending towards modernisation. However, the extent of any savings will depend on each organisation's existing technology estate and investment requirements.
+
+Data Governance and Infrastructure Must Advance Together
+
+The findings suggest that scaling enterprise AI requires progress across three connected areas: preparing reliable data, establishing consistent governance and securing the infrastructure needed to run workloads.
+
+For telecom operators, cloud providers and data centre businesses, these requirements intersect with the need to deliver scalable compute, storage and connectivity while managing power consumption, cooling and operational costs. For enterprise customers, the challenge is to ensure that AI systems can access relevant information without compromising security, compliance or accountability.
