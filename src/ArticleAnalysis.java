@@ -7,7 +7,7 @@ public class ArticleAnalysis {
         this.article_words = article_words;
     }
 
-    public void calculate_statistics() throws Exception {
+    public void calculate_statistics(int action) throws Exception {
 
         int numberOfWords = this.article_words.size();
 
@@ -36,12 +36,25 @@ public class ArticleAnalysis {
         });
 
         //Print results
-        System.out.println("Number of words: "+numberOfWords);
-        System.out.println("\nNumber of unique words: "+numberOfUniqueWords);
-        System.out.println("\nFrequency of words:\n");
-        for (Map.Entry<String, Integer> entry : duplicateList) {
-            System.out.println(entry.getKey() + ": " + entry.getValue() + " times");
+        switch (action) {
+            case 1:
+                System.out.println("Number of words: "+numberOfWords);
+                break;
+            case 2:
+                System.out.println("\nNumber of unique words: "+numberOfUniqueWords);
+                break;
+            case 3:
+                System.out.println("\nFrequency of words:\n");
+                for (Map.Entry<String, Integer> entry : duplicateList) {
+                    System.out.println(entry.getKey() + ": " + entry.getValue() + " times");}
+                break;
+            case 4:
+                System.out.println("Number of words: "+numberOfWords);
+                System.out.println("\nNumber of unique words: "+numberOfUniqueWords);
+                System.out.println("\nFrequency of words:\n");
+                for (Map.Entry<String, Integer> entry : duplicateList) {
+                    System.out.println(entry.getKey() + ": " + entry.getValue() + " times");}
+                break;
+                }
         }
     }
-
-}
