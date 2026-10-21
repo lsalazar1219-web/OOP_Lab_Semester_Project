@@ -37,14 +37,10 @@ classDiagram
 
 
 Test Screenshots:
-<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/1526a152-5eb4-45f9-882b-a82c1754543e" />
-<img width="2880" height="1704" alt="image" src="https://github.com/user-attachments/assets/4efb5219-9d1e-408b-b005-4b200a7d6ec7" />
-<img width="2880" height="1704" alt="Screenshot 2026-10-21 194046" src="https://github.com/user-attachments/assets/318b1e92-4372-4647-8a3d-3ba70ea4dbf1" />
-<img width="2880" height="1704" alt="Screenshot 2026-10-21 194117" src="https://github.com/user-attachments/assets/aa0c6071-233d-4cdb-b818-8c88c8792c0f" />
-
-
-
-
+<img width="2880" height="1704" alt="Screenshot 2026-10-21 194025" src="https://github.com/user-attachments/assets/40893304-dae8-4bd4-8d05-b6c73f37924c" />
+<img width="2880" height="1704" alt="Screenshot 2026-10-21 194041" src="https://github.com/user-attachments/assets/ca8614aa-1b05-43d5-bdeb-ce85085cf57b" />
+<img width="2880" height="1704" alt="Screenshot 2026-10-21 194046" src="https://github.com/user-attachments/assets/1445db9d-fa5a-4bf4-9fde-8a393985703b" />
+<img width="2880" height="1704" alt="Screenshot 2026-10-21 194117" src="https://github.com/user-attachments/assets/e8eb9385-b8fc-4c25-bde6-34005e886bde" />
 
 
 Work Completed by Each Group Member
