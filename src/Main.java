@@ -4,11 +4,26 @@ import java.util.Scanner;
 
 public class Main {
     public static void main() throws Exception {
+        /*d
+         * Main class. First uses TextToArray to convert the raw .txt file into a regular array
+         * of String objects. Then use ArticleCleanUp to remove stop words. Finally, use the
+         * ArticleAnalysis class to find out how many words, how many unique words, and how
+         * frequent words are.
+
+         * This method supports user interactivity. It allows you to choose what file to analyze
+         * by entering the file's name, and allows you to choose what statistics you would like
+         * shown. It runs until quit by the user, so you can analyze multiple files in one program
+         * execution.
+         * */
         outerLoop:
         while (true) {
+            // Initialize TextToArray object and String array which the object will return.
             TextToArray text_to_array = new TextToArray();
             String[] article_array_1;
             ArrayList<String> article_ArrayList_1;
+
+            // Read the user-inputted file and use TextToArray + ArticleCleanUp
+            // to prepare the article for analysis.
             Scanner scanner = new Scanner(System.in);
             System.out.println("Enter file_name of article:");
             String file_name = scanner.nextLine();
@@ -16,8 +31,11 @@ public class Main {
             ArticleCleanUp articleCleaner = new ArticleCleanUp(article_array_1);
             article_ArrayList_1 = articleCleaner.clean_article();
 
+            // Initialize the ArticleAnalysis object that will calculate article statistics.
             ArticleAnalysis articleAnalyzer = new ArticleAnalysis(article_ArrayList_1);
 
+
+            // Allow user choice in what statistics are calculated.
             samearticleloop:
             while (true){
                 System.out.println("\nEnter action for statistics:\n" +
@@ -44,6 +62,10 @@ public class Main {
                     default:
                         continue;
                 }
+
+                // Allow user to run more statistics on the same article or return to the
+                // previous menu and enter a new article.
+                // Or quit.
                 nextactionloop:
                 while (true) {
                     System.out.println("\nEnter next action:\n" +
@@ -65,9 +87,9 @@ public class Main {
 
                     }
                 }
-                }
-                }
+            }
         }
-
     }
+
+}
 
