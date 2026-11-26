@@ -62,7 +62,8 @@ public class ArticleAnalysis {
                 System.out.println("\nFrequency of words:\n");
                 for (Map.Entry<String, Integer> entry : frequencyMap.entrySet()){
                     System.out.println(entry.getKey() + ": " + entry.getValue() + " times");}
-                break;
+                // check
+                    break;
                 }
         }
     }
