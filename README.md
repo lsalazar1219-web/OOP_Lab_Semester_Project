@@ -70,8 +70,11 @@ Milestone 1 screenshots:
 
 
 Milestone 2 screenshots:
+<img width="1082" height="722" alt="Screenshot 2026-11-25 211051" src="https://github.com/user-attachments/assets/446cca4e-9ae2-46fa-b9e3-984ebfa00b92" />
 
+<img width="1076" height="722" alt="Screenshot 2026-11-25 211113" src="https://github.com/user-attachments/assets/edaed8c3-161c-4266-aa86-2eddf3a66be4" />
 
+<img width="1074" height="720" alt="Screenshot 2026-11-25 211134" src="https://github.com/user-attachments/assets/c621d485-78e4-498d-b5be-c23cf59fe160" />
 
 
 Work Completed by Each Group Member
