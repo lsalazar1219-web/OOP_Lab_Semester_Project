@@ -62,36 +62,16 @@ classDiagram
     PositiveOrNegative ..> negative.txt : loads negative word list
 ```
 
-## Build and manual testing
-
-From the project root, compile and run:
-
-```powershell
-javac -d out src\*.java
-java -cp out Main
-```
-
-Check these behaviors in the terminal:
-
-1. Enter an invalid menu choice (for example, `x`). The program reports an invalid choice and shows the menu again.
-2. Choose opening-menu option `2` and verify the second menu displays the three separate multi-article statistics, an all-three choice, and a return choice.
-3. Choose second-menu option `1`, `2`, or `3`. Verify only the selected report is shown. Option `4` should run all three reports, and option `5` should return to the opening menu.
-4. Choose opening-menu option `1`, then enter `0` at the article filename prompt. Verify that it returns to the opening menu.
-5. Enter `ai.txt`, then choose statistics-menu option `5`. Verify that it returns to the opening menu.
-6. Enter a blank or nonexistent article file name. The program reports the problem and prompts for a file again.
-7. Enter `ai.txt`, choose frequency statistics, and verify counts are in descending order. Words with matching counts should appear alphabetically.
-8. Verify frequency output uses lowercase words and excludes stop words regardless of their capitalization (for example, `The` and `the`).
-9. Enter invalid choices in the opening menu, multi-article menu, statistics menu, and next-action menu. Each menu should report the invalid choice and prompt again.
-10. Verify next-action choices `2`, `3`, and `4` respectively start a different article, return to the opening menu, and quit.
-
-
-
-
-Previous test screenshots:
+Milestone 1 screenshots:
 <img width="2880" height="1704" alt="Screenshot 2026-10-21 194025" src="https://github.com/user-attachments/assets/40893304-dae8-4bd4-8d05-b6c73f37924c" />
 <img width="2880" height="1704" alt="Screenshot 2026-10-21 194041" src="https://github.com/user-attachments/assets/ca8614aa-1b05-43d5-bdeb-ce85085cf57b" />
 <img width="2880" height="1704" alt="Screenshot 2026-10-21 194046" src="https://github.com/user-attachments/assets/1445db9d-fa5a-4bf4-9fde-8a393985703b" />
 <img width="2880" height="1704" alt="Screenshot 2026-10-21 194117" src="https://github.com/user-attachments/assets/e8eb9385-b8fc-4c25-bde6-34005e886bde" />
+
+
+Milestone 2 screenshots:
+
+
 
 
 Work Completed by Each Group Member
