@@ -7,6 +7,11 @@ public class ArticleAnalysis {
         this.article_words = article_words;
     }
 
+    public int getUniqueWordCount() {
+        Set<String> uniqueWords = new HashSet<>(this.article_words);
+        return uniqueWords.size();
+    }
+
     public void calculate_statistics(int action) throws Exception {
         /*
         * This class takes the cleaned up ArrayList from ArticleCleanUp and runs basic statistics
@@ -22,26 +27,7 @@ public class ArticleAnalysis {
         Set<String> UniqueWords = new HashSet<>(this.article_words);
         int numberOfUniqueWords = UniqueWords.size();
 
-        // Make the frequency map using a HashMap.
-        Map<String, Integer> frequencyMap = new HashMap<>();
-        for (String word : this.article_words) {
-            frequencyMap.put(word, frequencyMap.getOrDefault(word, 0) + 1);
-        }
-
-        //Filter out items that appear only once.
-        List<Map.Entry<String, Integer>> duplicateList = new ArrayList<>();
-        for (Map.Entry<String, Integer> entry : frequencyMap.entrySet()) {
-            if (entry.getValue() > 1) {
-                duplicateList.add(entry);
-            }
-        }
-
-        //Sort the entries by value in descending order.
-        duplicateList.sort(new Comparator<Map.Entry<String, Integer>>() {
-            public int compare(Map.Entry<String, Integer> e1, Map.Entry<String, Integer> e2) {
-                return e2.getValue().compareTo(e1.getValue()); // Descending
-            }
-        });
+        List<Map.Entry<String, Integer>> sortedFrequencyList = getSortedWordFrequencies();
 
         //Print results, allowing the user to decide which statistic is printed.
         switch (action) {
@@ -53,17 +39,51 @@ public class ArticleAnalysis {
                 break;
             case 3:
                 System.out.println("\nFrequency of words:\n");
-                for (Map.Entry<String, Integer> entry : frequencyMap.entrySet()){
-                    System.out.println(entry.getKey() + ": " + entry.getValue() + " times");}
+                for (Map.Entry<String, Integer> entry : sortedFrequencyList) {
+                    if (entry.getValue() > 1) {
+                        System.out.println(entry.getKey() + ": " + entry.getValue() + " times");
+                    }
+                }
                 break;
             case 4:
                 System.out.println("Number of words: "+numberOfWords);
                 System.out.println("\nNumber of unique words: "+numberOfUniqueWords);
                 System.out.println("\nFrequency of words:\n");
-                for (Map.Entry<String, Integer> entry : frequencyMap.entrySet()){
-                    System.out.println(entry.getKey() + ": " + entry.getValue() + " times");}
-                // check
-                    break;
+                for (Map.Entry<String, Integer> entry : sortedFrequencyList) {
+                    if (entry.getValue() > 1) {
+                        System.out.println(entry.getKey() + ": " + entry.getValue() + " times");
+                    }
                 }
+                break;
         }
     }
+
+    public void printTopTenWords(String articleName) {
+        List<Map.Entry<String, Integer>> sortedFrequencyList = getSortedWordFrequencies();
+        System.out.println("\nTop words in " + articleName + ":");
+        for (int i = 0; i < Math.min(10, sortedFrequencyList.size()); i++) {
+            Map.Entry<String, Integer> entry = sortedFrequencyList.get(i);
+            System.out.println((i + 1) + ". " + entry.getKey() + ": " +
+                    entry.getValue() + " times");
+        }
+    }
+
+    private List<Map.Entry<String, Integer>> getSortedWordFrequencies() {
+        Map<String, Integer> frequencyMap = new HashMap<>();
+        for (String word : this.article_words) {
+            frequencyMap.put(word, frequencyMap.getOrDefault(word, 0) + 1);
+        }
+
+        List<Map.Entry<String, Integer>> sortedFrequencyList =
+                new ArrayList<>(frequencyMap.entrySet());
+        sortedFrequencyList.sort(new Comparator<Map.Entry<String, Integer>>() {
+            public int compare(Map.Entry<String, Integer> first, Map.Entry<String, Integer> second) {
+                int frequencyComparison = second.getValue().compareTo(first.getValue());
+                return frequencyComparison != 0
+                        ? frequencyComparison
+                        : first.getKey().compareTo(second.getKey());
+            }
+        });
+        return sortedFrequencyList;
+    }
+}

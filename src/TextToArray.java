@@ -1,9 +1,9 @@
-import java.io.*;
+import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 public class TextToArray {
 
-    public String[] convertTextToArray(String file_name) throws Exception {
+    public String[] convertTextToArray(String file_name) throws IOException {
         /*
          * This class converts the original text file of an article into a String[] array.
          * Then it returns the array for use by other classes.
@@ -13,6 +13,9 @@ public class TextToArray {
 
         //Read the entire file content into a single String.
         String fileContent = Files.readString(Path.of(path));
+        if (fileContent.isBlank()) {
+            return new String[0];
+        }
 
         //Split the string by any whitespace sequence into an array.
         String[] articleWords = fileContent.trim().split(("[\\s.,!?;:\"]+"));
